@@ -59,3 +59,4 @@ int main()
         //tabuleiro[9][9]=3; //para teste
     }}
     return 0;
+}
